@@ -11,4 +11,4 @@ ls
 python2 chucky.py
 
 •Note Masukan Dulu Script Deface Kalian Keddalam tools
-Contoh 
+Contoh mv script.html $HOME/autopepes
